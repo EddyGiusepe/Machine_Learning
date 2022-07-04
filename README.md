@@ -6,5 +6,5 @@ Aqui seguiremos aprendendo Machine Learning e reforzaremos o que j√° sabemos at√
 ![](https://docs.microsoft.com/pt-br/azure/machine-learning/media/concept-deep-learning-vs-machine-learning/ai-vs-machine-learning-vs-deep-learning.png)
 
 
-
+![](./pics/fe.png)
 
