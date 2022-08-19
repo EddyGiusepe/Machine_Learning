@@ -19,5 +19,6 @@ As seguintes imagens descrevem muito bem as diferenças entre elas.
 
 
 
+
 Thanks God!
 
