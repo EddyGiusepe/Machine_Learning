@@ -13,6 +13,7 @@ As seguintes imagens descrevem muito bem as diferenças entre elas.
 
 ![](https://kenzie.com.br/blog/wp-content/uploads/2020/12/machine-learning-2.png)
 
+![image](https://user-images.githubusercontent.com/69597971/190023717-e2ca6174-4520-4244-80bf-7bd930e0b8e5.png)
 
 
 
